@@ -32,3 +32,5 @@
 *.app
 
 *.lock
+*.ide-shm
+*.ide-wal
