@@ -23,6 +23,8 @@ namespace testProject
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("Hello world!");
+            Console.WriteLine("How are you?");
         }
     }
 }
